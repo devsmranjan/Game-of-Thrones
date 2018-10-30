@@ -1,8 +1,7 @@
-# game_of_thrones
+# Game of Thrones
 
 A new Flutter application.
 
-## Getting Started
+## Screenshot
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Game of Thrones](GOT.gif)
